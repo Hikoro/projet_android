@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Calculation</string>
+    <string name="message_valeur_trop_grande"> Valeur trop grande</string>
+    <string name="message_bonne_reponse">"Value too high!"</string>
+    <string name="message_mauvaise_reponse">Wrong answer !</string>
+    <string name="message_perdu">YOU HAVE LOST !</string>
+    <string name="toolbar_texte_score">Score</string>
+    <string name="toolbar_texte_vie">Lifes</string>
+    <string name="viesRestantes">\"Remaining lives: \"</string>
+    <string name="votreScoreEstDe">\"your score is : \"</string>
+    <string name="VousAvezPerdu">You have lost!</string>
+    <string name="effacer">DELETE</string>
+    <string name="_6">6</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_7">7</string>
+    <string name="valider">VALIDATE</string>
+    <string name="_0">0</string>
+    <string name="_minus">(-)</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+    <string name="r_ponse">Answer</string>
+    <string name="_12_8">12+8</string>
+    <string name="question">Question</string>
+    <string name="vies_restantes_3">Remaining lives: 3</string>
+    <string name="score_0">Score: 0</string>
+    <string name="nouvelle_partie">New Game</string>
+    <string name="propos">About</string>
+    <string name="records">Records</string>
+    <string name="highscore">HighScore</string>
+    <string name="hikoro_10">Hikoro: 10</string>
+    <string name="dududess_10">Dududess: 10</string>
+    <string name="aypierre_9">Aypierre: 9</string>
+    <string name="revenir_au_menu">Back to the menu</string>
+</resources>
